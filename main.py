@@ -1,4 +1,4 @@
-# This program checks what scholarship you can get based off of your GPA and SAT score
+# This program checks what scholarship you can get based off of your GPA, SAT score, and extracurricular activities
 
 def check_scholarship_eligibility(gpa, sat_score, extracurricular_activities):
     if gpa >= 3.5 and sat_score >= 1300 and extracurricular_activities >= 3:
